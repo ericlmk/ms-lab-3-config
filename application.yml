@@ -18,7 +18,7 @@ spring:
   application:
     name: lab-4-subject
 words: Peter,Paul,Mary
-server.port: 8001
+server.port: 8901
   
 ---
 spring:
