@@ -18,6 +18,8 @@ words: ran,knew,had,saw,bought
 ---
 spring:
   profiles: article
+  application:
+    name: lab-4-allinone
 words: a,the
 
 ---
